@@ -7,6 +7,7 @@ export default defineCliConfig({
   },
   /**
    * Enable auto-updates for studios.
+   * test
    * Learn more at https://www.sanity.io/docs/cli#auto-updates
    */
    studioHost: 'talview',
